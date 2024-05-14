@@ -1,0 +1,106 @@
+.body{
+    background: rgb(181, 176, 176);
+    width: 100%;
+    
+}
+.main-body{
+    background: rgb(0, 109, 27);
+    
+    height: 80px;
+}
+.title{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-weight: 700;
+    padding: 8px;
+}
+.signup-section{
+    align-content: center;
+    border: 2px solid lightgray;
+    border-radius: 8px;
+    margin-top: 40px;
+    height: 400px;
+    width: 300px;
+    margin-left: 25px;
+    background: white;
+   
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    text-align: center;
+
+}
+.names{
+    color: gray;
+    margin-left: -40px;
+    width: 230px;
+    font-size: 15px;
+    font-weight: 500;
+    border: 2px solid gray;
+    border-radius: 8px;
+    margin-top: 10px;
+   
+}
+.namecreate{
+    margin-top: 20px;
+}
+.date-of-birth{
+    margin-top: 30px;
+    margin-left: -170px;
+}
+.dateofbirth{
+    border-radius: 5px;
+    font-size: 12px;
+     margin-top: -30px;
+    margin-left: -90px;
+    width: 40px;
+    height: 18px;
+}
+.month{
+    border-radius: 5px;
+    font-size: 12px;
+     margin-top: -30px;
+    margin-left: 3px;
+    width: 50px;
+    height: 18px;
+}
+.year{
+    border-radius: 5px;
+    font-size: 12px;
+     margin-top: -50px;
+    margin-left: 3px;
+    width: 60px;
+    height: 18px;
+}
+.gender{
+    margin-top: 10px;
+    margin-left: -195px;
+}
+.nextbutton{
+    width: 80px;
+    border-radius: 5px;
+    height: 30px;
+    background: green;
+    color: white;
+    font-size: 13px;
+    font-weight: 600;
+    margin-top: -200px;
+}
+#email{
+    font-size: 18px;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: -15px;
+    width: 260px;
+    height: 60px;
+}
+#password{
+    font-size: 18px;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: -15px;
+    width: 260px;
+    height: 60px;
+}
